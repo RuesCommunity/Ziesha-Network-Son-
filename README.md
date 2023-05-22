@@ -60,7 +60,7 @@ cargo install --path .
 > IPADRESİNİZİ girmeyi unutmayın!
 
 ```sh
-bazuka init --external 5.75.182.65:8765 --bootstrap 31.210.53.186:8765
+bazuka init --external 135.181.90.12:8765 --bootstrap 31.210.53.186:8765
 ```
 
 <h1 align="center"> Node'u çalıştıralım </h1>
