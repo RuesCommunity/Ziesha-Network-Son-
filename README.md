@@ -71,7 +71,7 @@ bazuka init --external 135.181.90.12:8765 --bootstrap 31.210.53.186:8765
 screen -S ziesha
 ```
 ```sh
-bazuka node start --discord-handle "Rues"
+bazuka node start --discord-handle ! kriptosekici#9604
 ```
 
 <h1 align="center"> Çalıştığını nasıl anlarız? </h1>
